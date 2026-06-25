@@ -9,3 +9,9 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
