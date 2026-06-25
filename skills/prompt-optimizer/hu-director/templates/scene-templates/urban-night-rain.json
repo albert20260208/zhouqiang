@@ -1,0 +1,69 @@
+{
+  "template_name": "城市夜雨场景",
+  "template_id": "hu-urban-night-rain-v1",
+  "description": "胡导风格的城市夜雨场景，忧郁孤独的氛围",
+  "tags": ["城市", "夜景", "雨景", "孤独", "忧郁", "胡导风格"],
+  
+  "visual_elements": {
+    "setting": "城市街道夜景，下雨",
+    "lighting": "霓虹灯反射在湿漉漉的地面上，蓝绿色调",
+    "composition": "不对称构图，人物在画面一侧",
+    "camera": "广角镜头，轻微手持晃动",
+    "movement": "缓慢推近",
+    "color_palette": ["蓝绿色", "冷色调", "低饱和度"]
+  },
+  
+  "narrative_elements": {
+    "mood": "孤独、忧郁、疏离",
+    "pace": "缓慢",
+    "emotion": "怀旧、迷茫",
+    "theme": "城市孤独、时间流逝"
+  },
+  
+  "prompt_templates": {
+    "midjourney": "cinematic film still of a lonely person walking on rainy city street at night, neon lights reflecting on wet pavement, blue-green color palette, asymmetrical composition, moody lighting, dramatic shadows, masterpiece, best quality, ultra detailed, photorealistic, shot on 35mm film --ar 9:16 --style raw --stylize 100",
+    
+    "seedream": "电影感画面，雨夜城市街道，孤独的行人，霓虹灯在湿漉漉的地面上反射出蓝绿色光芒，不对称构图，忧郁氛围，光影对比强烈，最高质量，超精细，文艺片风格",
+    
+    "seedance": "@scene: rainy city street at night @character: lonely person walking slowly @lighting: neon lights reflecting on wet pavement, blue-green tones @camera: wide angle, slow push in, slight handheld shake @mood: lonely, melancholic, contemplative @style: art film, slow cinema"
+  },
+  
+  "parameters": {
+    "midjourney": {
+      "aspect_ratio": "9:16",
+      "style": "raw",
+      "stylize": 100,
+      "chaos": 20
+    },
+    "seedance": {
+      "duration": "10s",
+      "style": "art film",
+      "motion": "subtle"
+    }
+  },
+  
+  "usage_notes": "适用于表现城市孤独、回忆、内心独白等场景。可以调整人物性别、服装、具体动作来适应不同剧情。",
+  
+  "variations": [
+    {
+      "name": "车内视角",
+      "description": "从车内看雨夜街道",
+      "prompt_addition": "from inside a car, raindrops on window, out of focus background"
+    },
+    {
+      "name": "地铁站",
+      "description": "雨夜地铁站场景",
+      "prompt_addition": "subway station, fluorescent lighting, empty platform"
+    },
+    {
+      "name": "天台",
+      "description": "城市天台雨景",
+      "prompt_addition": "rooftop, overlooking city skyline, rain falling into darkness"
+    }
+  ],
+  
+  "created_at": "2026-04-01",
+  "last_updated": "2026-04-01",
+  "success_rate": "待统计",
+  "director_rating": "待评价"
+}

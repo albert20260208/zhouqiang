@@ -1,0 +1,39 @@
+{
+  "director_name": "胡导",
+  "visual_style": {
+    "color_palette": ["冷色调", "蓝绿色调", "低饱和度"],
+    "lighting": ["强烈的明暗对比", "侧光", "轮廓光"],
+    "composition": ["不对称构图", "框架构图", "负空间"],
+    "camera_movement": ["缓慢推拉", "手持轻微晃动", "固定镜头"],
+    "lens_type": ["广角镜头", "标准镜头"],
+    "depth_of_field": ["浅景深", "选择性对焦"]
+  },
+  "narrative_style": {
+    "pace": "慢节奏",
+    "emotions": ["忧郁", "孤独", "怀旧", "疏离感"],
+    "themes": ["时间", "记忆", "城市生活", "人际关系"],
+    "story_structure": ["非线性叙事", "碎片化", "情绪驱动"]
+  },
+  "technical_preferences": {
+    "preferred_models": {
+      "image_generation": ["Midjourney", "即梦 Seedream"],
+      "video_generation": ["即梦 Seedance", "Runway Gen-3"]
+    },
+    "resolution": "4K",
+    "aspect_ratio": ["9:16", "16:9"],
+    "frame_rate": "24fps",
+    "audio_preferences": ["环境音", "简约配乐", "留白"]
+  },
+  "content_preferences": {
+    "genres": ["文艺片", "都市情感", "悬疑心理"],
+    "character_types": ["复杂内心", "孤独个体", "城市漂泊者"],
+    "setting_preferences": ["城市夜景", "雨景", "室内空间", "交通工具内部"]
+  },
+  "quality_standards": {
+    "realism": "高真实感，避免AI味",
+    "consistency": "场景和人物一致性",
+    "detail_level": "注重细节，特别是光影和材质",
+    "emotional_impact": "强调情绪传达"
+  },
+  "updated_at": "2026-04-01"
+}

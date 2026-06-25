@@ -1,0 +1,195 @@
+{
+  "director_name": "胡导",
+  "shooting_style": "固定镜头，多角度多景别，单个镜头以固定镜头为主",
+  "created_at": "2026-04-01",
+  "last_updated": "2026-04-01",
+  
+  "guideline_details": {
+    "core_principle": "固定镜头为主，多角度多景别组合",
+    "applicable_scenes": "没有剧烈运动的剧本场景",
+    
+    "camera_techniques": {
+      "fixed_shots": {
+        "description": "单个镜头以固定镜头为主，避免不必要的镜头运动",
+        "advantages": [
+          "保持画面稳定性",
+          "突出演员表演",
+          "增强观众代入感",
+          "减少AI生成的不稳定性"
+        ],
+        "usage_scenarios": [
+          "对话场景",
+          "情感交流",
+          "室内戏",
+          "文戏"
+        ]
+      },
+      
+      "multiple_angles": {
+        "description": "使用多角度拍摄同一场景",
+        "common_angles": [
+          "正面平视",
+          "侧面平视", 
+          "俯拍",
+          "仰拍",
+          "背后角度",
+          "斜角"
+        ],
+        "purpose": "丰富画面层次，避免单调"
+      },
+      
+      "multiple_shots": {
+        "description": "使用多景别组合",
+        "shot_types": [
+          {
+            "name": "特写",
+            "description": "聚焦面部表情、手部动作等细节",
+            "usage": "情感表达、微表情展示"
+          },
+          {
+            "name": "中近景",
+            "description": "胸部以上，突出人物关系和互动",
+            "usage": "对话场景、情感交流"
+          },
+          {
+            "name": "中景",
+            "description": "腰部以上，展示人物姿态和环境关系",
+            "usage": "动作展示、环境互动"
+          },
+          {
+            "name": "全景",
+            "description": "全身镜头，展示完整环境和空间关系",
+            "usage": "场景建立、空间展示"
+          }
+        ]
+      }
+    },
+    
+    "lighting_guidelines": {
+      "fixed_lighting": "固定镜头配合固定灯光，保持光线一致性",
+      "multi_angle_lighting": "不同角度使用匹配的灯光设置",
+      "emotional_lighting": "根据情绪调整光线质感和对比度"
+    },
+    
+    "editing_guidelines": {
+      "shot_combination": "固定镜头+多角度+多景别的组合剪辑",
+      "rhythm_control": "通过镜头长度控制节奏",
+      "transition_style": "匹配剪辑为主，保持视觉流畅性"
+    },
+    
+    "ai_generation_tips": {
+      "stability": "固定镜头在AI生成中更稳定",
+      "consistency": "多角度拍摄需要保持人物一致性",
+      "detail_level": "不同景别需要不同的细节描述精度"
+    }
+  },
+  
+  "technical_parameters": {
+    "camera_settings": {
+      "movement": "固定镜头 (camerafixed true)",
+      "stability": "高稳定性，避免抖动",
+      "focus": "根据景别调整焦点"
+    },
+    
+    "common_presets": {
+      "dialogue_scene": {
+        "shots": ["特写", "中近景", "中景"],
+        "angles": ["正面平视", "侧面平视", "斜角"],
+        "duration": "每个镜头3-5秒"
+      },
+      
+      "emotional_scene": {
+        "shots": ["特写", "中近景"],
+        "angles": ["正面平视", "俯拍", "仰拍"],
+        "duration": "每个镜头4-6秒"
+      },
+      
+      "environment_scene": {
+        "shots": ["全景", "中景"],
+        "angles": ["平视", "俯拍"],
+        "duration": "每个镜头5-8秒"
+      }
+    },
+    
+    "prompt_template": {
+      "camera_descriptions": [
+        "景别：特写，角度：正面平视，运镜：固定镜头",
+        "景别：中近景，角度：侧面，运镜：固定镜头", 
+        "景别：中景，角度：俯拍，运镜：固定镜头",
+        "景别：全景，角度：平视，运镜：固定镜头"
+      ],
+      
+      "technical_parameters": "-camerafixed true -stability high"
+    }
+  },
+  
+  "workflow_integration": {
+    "pre_production": {
+      "script_analysis": "识别适合固定镜头的场景",
+      "shot_list": "规划多角度多景别的镜头组合",
+      "lighting_plan": "设计匹配的灯光方案"
+    },
+    
+    "production": {
+      "shot_execution": "按计划执行固定镜头拍摄",
+      "angle_variation": "确保每个重要时刻有多个角度",
+      "shot_variation": "确保每个场景有多个景别"
+    },
+    
+    "post_production": {
+      "editing_strategy": "利用多角度多景别丰富剪辑",
+      "rhythm_control": "通过镜头长度控制情感节奏",
+      "consistency_check": "确保多角度镜头的人物和环境一致性"
+    }
+  },
+  
+  "quality_assurance": {
+    "checklist": [
+      "是否每个重要时刻有至少2个角度",
+      "是否每个场景有至少3个景别",
+      "是否所有镜头都是固定镜头（除非特别需要运动）",
+      "是否多角度镜头保持光线一致性",
+      "是否多景别镜头保持人物一致性"
+    ],
+    
+    "common_issues": {
+      "angle_monotony": "角度单一，画面单调",
+      "shot_repetition": "景别重复，缺乏层次",
+      "inconsistency": "多角度镜头人物或环境不一致",
+      "rhythm_issues": "镜头长度不合理，节奏失调"
+    },
+    
+    "solutions": {
+      "angle_diversity": "增加角度变化（正面、侧面、俯拍、仰拍等）",
+      "shot_variety": "组合不同景别（特写、中近景、中景、全景）",
+      "consistency_checks": "仔细检查多角度镜头的一致性",
+      "rhythm_adjustment": "根据情感需要调整镜头长度"
+    }
+  },
+  
+  "examples": {
+    "dialogue_scene_example": {
+      "scene": "两人对话",
+      "shot_list": [
+        "特写：人物A正面，固定镜头，3秒",
+        "特写：人物B正面，固定镜头，3秒",
+        "中近景：两人侧面，固定镜头，4秒",
+        "中景：两人正面，固定镜头，5秒"
+      ],
+      "effect": "通过多角度多景别丰富对话场景"
+    },
+    
+    "emotional_scene_example": {
+      "scene": "情感爆发",
+      "shot_list": [
+        "特写：面部表情，正面俯拍，固定镜头，4秒",
+        "特写：手部动作，侧面，固定镜头，3秒",
+        "中近景：上半身，正面仰拍，固定镜头，5秒",
+        "全景：环境关系，平视，固定镜头，6秒"
+      ],
+      "effect": "通过不同角度和景别增强情感表达"
+    }
+  },
+  
+  "notes": "此拍摄指导适用于没有剧烈运动的剧本场景，如对话戏、情感戏、文戏等。对于动作戏或需要镜头运动的场景，需要调整拍摄策略。"
+}

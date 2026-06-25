@@ -1,0 +1,57 @@
+{
+  "director_name": "胡导",
+  "model_preferences": {
+    "midjourney": {
+      "preferred_version": "v6",
+      "style_tuning": {
+        "style": "raw",
+        "stylize": 100,
+        "chaos": 20,
+        "weird": 0
+      },
+      "prompt_structure": "强调风格关键词在前，详细描述在后",
+      "quality_keywords": ["masterpiece", "best quality", "ultra detailed", "photorealistic"],
+      "style_keywords": ["cinematic", "film still", "moody lighting", "dramatic"]
+    },
+    "seedream": {
+      "preferred_version": "最新版",
+      "prompt_structure": "中文描述，强调情绪和氛围",
+      "quality_keywords": ["最高质量", "超精细", "电影级"],
+      "style_keywords": ["电影感", "文艺片", "情绪氛围", "光影艺术"]
+    },
+    "seedance": {
+      "preferred_version": "2.0",
+      "prompt_structure": "使用@引用系统，分时段描述",
+      "camera_movements": ["slow push in", "gentle pan", "static shot"],
+      "lighting_keywords": ["moody lighting", "dramatic shadows", "cinematic lighting"],
+      "style_keywords": ["art film", "slow cinema", "contemplative"]
+    },
+    "runway_gen3": {
+      "preferred_settings": {
+        "motion_brush": "subtle",
+        "consistency": "high",
+        "style": "cinematic"
+      },
+      "prompt_structure": "强调动作和情绪变化"
+    }
+  },
+  "workflow_preferences": {
+    "iteration_process": "生成3个版本对比选择",
+    "feedback_focus": ["情绪准确性", "视觉风格", "叙事连贯性"],
+    "revision_priority": ["情绪表达", "视觉一致性", "技术质量"],
+    "collaboration_style": "详细讨论每个版本的特点"
+  },
+  "output_preferences": {
+    "file_naming": "按场景-版本-日期命名",
+    "organization": "按项目-场景-版本组织文件",
+    "metadata": "包含完整提示词和参数",
+    "backup_strategy": "本地+云端双备份"
+  },
+  "learning_preferences": {
+    "case_study_focus": ["成功案例", "失败教训", "风格突破"],
+    "pattern_extraction": "自动提取有效提示词模式",
+    "template_evolution": "基于成功案例更新模板",
+    "knowledge_sharing": "在团队内部分享学习成果"
+  },
+  "updated_at": "2026-04-01"
+}

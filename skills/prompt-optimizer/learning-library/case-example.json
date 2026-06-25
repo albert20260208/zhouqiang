@@ -1,0 +1,58 @@
+{
+  "case_id": "20260323-132800-001",
+  "timestamp": "2026-03-23T13:28:00+08:00",
+  "user_id": "user1",
+  "model": {
+    "name": "Midjourney",
+    "version": "v6"
+  },
+  "scene_analysis": {
+    "type": "霸道总裁",
+    "emotion": "高冷、掌控感",
+    "style": "电影感、写实",
+    "key_elements": ["男性", "办公室", "西装", "帅气"],
+    "special_requirements": "竖屏9:16"
+  },
+  "original_prompt": "一个霸总在办公室，要很帅",
+  "optimized_versions": {
+    "v1": {
+      "prompt": "A 30-year-old male CEO standing in luxury office, tall imposing figure 188cm, sharp jawline and chiseled features, cold piercing dark eyes, slicked-back black hair, wearing tailored charcoal grey Italian suit with crisp white shirt, platinum cufflinks, hands in pockets, commanding presence, floor-to-ceiling windows with city view, dramatic side lighting, cinematic color grading, 8K, photorealistic, vertical 9:16 composition",
+      "strategy": "精准型",
+      "features": ["详细外貌", "服装细节", "姿态描述", "环境描述", "光线氛围"]
+    },
+    "v2": {
+      "prompt": "Handsome CEO in modern office, tailored suit, confident stance, city skyline background, cinematic lighting, photorealistic, 9:16",
+      "strategy": "简洁型",
+      "features": ["核心要素", "简洁描述", "留有余地"]
+    },
+    "v3": {
+      "prompt": "A man who commands every room he enters, standing by the window overlooking the city, power and elegance in every line of his perfectly fitted suit, the kind of presence that makes people stop and stare, golden hour light casting long shadows, film noir aesthetic, cinematic portrait",
+      "strategy": "创意型",
+      "features": ["艺术化表达", "氛围强调", "情绪传递"]
+    }
+  },
+  "user_feedback": {
+    "choice": "1",
+    "choice_text": "版本1",
+    "why_good": {
+      "primary": "细节更逼真",
+      "secondary": ["更像真人", "角度更好"],
+      "aspects": ["细节", "AI味", "角度"],
+      "user_comment": "版本1的西装质感和光影效果最符合我想要的电影感"
+    }
+  },
+  "lessons_learned": {
+    "what_worked": "详细描述西装材质（Italian suit, charcoal grey）和光影效果（dramatic side lighting）对Midjourney很有效",
+    "what_didnt": "过于复杂的背景描述（floor-to-ceiling windows with city view）可能分散对主体的注意力",
+    "pattern_extracted": "Midjourney + 霸总场景 = 强调服装质感 + 侧光 + 电影色调 + 具体颜色描述",
+    "key_insight": "用户最在意的是'电影感'，需要通过服装细节和光线来实现"
+  },
+  "evolution_applied": "已更新'霸道总裁'模板，强化服装材质（Italian suit, tailored）和光线描述（dramatic side lighting, cinematic color grading）",
+  "template_updates": [
+    {
+      "template": "霸道总裁",
+      "version": "v2",
+      "changes": "增加服装材质描述、强化光线效果"
+    }
+  ]
+}
