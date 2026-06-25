@@ -1,0 +1,11 @@
+# Large files / embedded repos
+ppt-master/
+*.mp4
+*.pack
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
