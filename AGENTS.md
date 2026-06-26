@@ -344,4 +344,4 @@ This is a starting point. Add your own conventions, style, and rules as you figu
 | 自检清单 | `SELF_CHECK.md` |
 | 出稿工作流 | `PROMPT_WORKFLOW.md` |
 | 运镜术语库 | `skills/camera-terminology/SKILL.md` |
-| 人物服装增强技能 | `skills/人物服装增强技能/SKILL.md` |
+| 人物服装增强技能 | `skills/VIDEO/人物服装增强技能/SKILL.md` |
