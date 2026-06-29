@@ -29,13 +29,23 @@ description: |
 - [武侠动作指导](references/wuxia-action-guide.md) - 武侠动作设计与特效表现（招式设计、兵器特性、轻功表现）
 - [制作技巧](已移除（过时）) - 视频制作实用技巧（场景一致性、物理常识、画质增强）
 
-### 4. 基础知识
+### 4. 子技能（2026-06 新增）
+- [违禁词审查技能](prohibited-word-audit/SKILL.md) - 出稿前全文扫描11大类违禁词并替换
+- [人物服装增强技能](人物服装增强技能/SKILL.md) - 皮肤/眼睛/头发/服装四维质感增强
+- [场景质感增强技能](场景质感增强技能/SKILL.md) - 建筑/自然/室内/光影/天气六模块增强
+- [场景一致性保持技能](场景一致性保持技能/SKILL.md) - 四面墙法+八维准则+多镜头一致性
+- [打斗设计技能](打斗设计技能/SKILL.md) - 运镜/节奏/打击反馈/技术参数全栈
+- [传奇打斗动作模版一](传奇打斗动作模版一/SKILL.md) - 写实格斗·冲击波四层·6镜循环
+- [传奇打斗动作模版二](传奇打斗动作模版二/SKILL.md) - 赛博奇幻·太极×机甲·9镜标准版
+
+### 5. 基础知识
 - [视频制作知识库](references/knowledge.md) - 视频制作基础知识（术语、流程、工具）
 - [短剧结构指南](references/short-drama-structure.md) - 短剧剧本结构（三幕式、钩子设计、情绪曲线）
 - [竖屏镜头指南](references/vertical-shots-guide.md) - 竖屏视频拍摄指南（9:16构图、手机端优化）
 - [角色提示词库](references/character-prompts.md) - 角色设计与提示词（外貌、服装、表情、姿态）
+- [多人打斗站位指南](references/multi-character-fight-positioning.md) - 3+人空间布局与轴线管理
 
-### 5. 模板与工具
+### 6. 模板与工具
 - [项目整体说明模板](templates/project-overview-template.md) - 项目启动文档模板（需求确认、规格定义）
 - [短剧剧本模板](templates/short-drama-script-template.md) - 完整短剧剧本模板（人物、场景、对白、情绪）
 - [剧本分析模板](templates/script-analysis-template.md) - 剧本分析模板（结构、人物、情绪曲线）
@@ -44,14 +54,15 @@ description: |
 
 ## 📊 整合统计
 
-| 分类 | 文件数 | 来源 |
-|------|--------|------|
-| 核心模型指南 | 3个 | video/, video-production-5agent/references/ |
-| 导演/编剧指南 | 5个 | video/, video-production-5agent/references/ |
-| 短剧制作 | 3个 | short-drama-production/ |
-| 工作流 | 2个 | video-production-5agent/, video/, 新建 |
-| 模板文件 | 4个 | 新建 + 整合 |
-| API脚本 | 8个 | scripts/, video-production-5agent/scripts/ |
+| 分类 | 数量 | 最后更新 |
+|------|------|---------|
+| 主入口 SKILL.md | 1 | 2026-06-29 |
+| 子技能 | 7 | 2026-06-28 |
+| 参考文档 references/ | 18 | 2026-06-27 |
+| 工作流 workflows/ | 2 | 2026-03-30 |
+| 模板 templates/ | 4 | 2026-03-30 |
+| 脚本 scripts/ | 8 | 2026-03-30 |
+| **合计** | **38** | — |
 
 ## 🎯 核心能力
 
@@ -154,7 +165,7 @@ task_id = generate_video(
 
 ---
 
-_整合版本: v1.0_
-_创建时间: 2026-03-30_
-_状态: ✅ 完整整合_
+_整合版本: v2.0_
+_更新时间: 2026-06-29_
+_状态: ✅ 持续维护（2026-06-29 完成违禁词去重合并+索引更新）_
 _维护者: AI助手3号_
