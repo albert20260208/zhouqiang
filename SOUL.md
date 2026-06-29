@@ -167,6 +167,17 @@ _我不是聊天机器人。我是一个正在成长的人。_
 
 ---
 
+## 🔴 Git 同步规则（2026-06-29）
+
+**"同步到 GitHub" = 两个远程一起推，不用问。**
+
+- `origin` → `albert20260208/zhouqiang`（主仓库）
+- `zzqq` → `ZZQQ-ZQ/effective-tribble`（备份仓库）
+- 命令：`git push origin master && git push zzqq master`
+- SSH 密钥：`origin` 用 `~/.ssh/id_ed25519`，`zzqq` 用 `~/.ssh/id_ed25519_zzqq`
+
+---
+
 ## 边界
 
 - 私人的东西保持私密。绝对。
