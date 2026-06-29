@@ -45,7 +45,7 @@
 | [研究] | Seedance 每周深度研究 v6.7（Seedance 2.0 Mini+8要素公式+Style/Negative Anchors+Lens Switch+Identity Blend+拆镜策略+丝带遮瑕 共9项） | 2026-06-18 | SKILL.md §30.72 |
 | [研究] | Seedance 每周深度研究 v7.4（Lanham JSON Schema+三种格式决策树+Subject Headers+Higgsfield四类多镜模板+Dexhunter官方中文技能文件 共3项） | 2026-06-27 | SKILL.md §30.100-30.103 |
 | [技术] | 电影摄影技术参数参考（光圈/ISO/快门角度/ND/焦段/画幅/曝光速查） | 2026-06-25 | skills/prompt-optimizer/references/technical-parameters.md |
-| [工具] | PPT生成开源项目 ppt-master（hugohe3） | 2026-06-21 | §ppt-master项目 |
+| [技能] | PPT生成技能（hugohe3/ppt-master·AI多角色协作·原生PPTX） | 2026-06-29 | skills/ppt-master/SKILL.md |
 
 ---
 
