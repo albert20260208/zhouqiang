@@ -346,3 +346,4 @@ This is a starting point. Add your own conventions, style, and rules as you figu
 | 运镜术语库 | `skills/camera-terminology/SKILL.md` |
 | 人物服装增强技能 | `skills/VIDEO/人物服装增强技能/SKILL.md` |
 | 场景质感增强技能 | `skills/VIDEO/场景质感增强技能/SKILL.md` |
+| 场景一致性保持技能 | `skills/VIDEO/场景一致性保持技能/SKILL.md` |

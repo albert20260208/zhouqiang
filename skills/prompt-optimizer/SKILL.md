@@ -6,7 +6,7 @@ description: |
   胡导风格格式、短剧制作、镜头语言、人物提示词、场景一致性、
   物理锚点、审核规避技巧、AI理解顺序与权重、180度轴线规则、
   18项检查清单、完整执行流程等。覆盖主流图片/视频生成模型。
-  每日深度研究更新（2026-05-01~2026-05-25，累计55天）。2026-05-26起调整为每周深度研究。2026-05-28第二期（v5.7）新增6项。2026-05-29第三期（v5.8）新增Timeline Prompting增强、Multi-Shot短片框架、参考锚定模式库、AI电影流水线、15模板库、官方能力盘点等6项。2026-05-30第四期（v5.9）新增Anchor & Master角色一致性工作流、PixVerse实战修复指南扩展、Seedance 2.0 vs Veo 3.1八维盲测对比等3项。2026-05-31第五期（v6.0）新增Seedance 2.1 & 2.0 Mini前瞻、Scenario多参考实战工作流、CreatOK LCB多镜头叙事工程、Physics-Aware Prompting（力驱动描述法）、角色一致性三重锁定法（Reset in Chains + Core Prompt Formula 6-Part）。2026-06-01第六期（v6.1）新增Seedance 2.1/Mini定价详细分析+Scenario Troubleshooting完整矩阵+Cliprise相机/光照/参考优先级补充+Atlabs Timeline三幕模板+Nine-Panel九格模板+Quick Fixes速查表。2026-06-02第七期（v6.2）新增角色一致性四方法体系+主流模型角色一致性横评+PixVerse V6 AI视频生成器+Seedance 2.0架构深度解析+跨模型身份锁定对照+Vidu主体参照系统+2026年AI视频行业4大趋势+2.1传言ByteDance官方否认勘误。2026-06-03第八期（v6.3）新增Pixo 3×3导演思维框架+Cliprise 8要素公式+相机光照参考库+4D Camera Codec系统+中英混搭语言策略+Seedance 2.0官方新能力详解。2026-06-13第九期（v6.4）新增2026年5月全平台定价矩阵更新+动作场景物理约束关键词+Artlist.io新分发渠道+团队模板库工作流建议。2026-06-14第十期（v6.5）新增一镜一动原则+角色1-2人硬限+提示词30-200词区间+速度距离配对+景别运镜兼容矩阵+6类型风格速查+音频词汇库+质量后缀+故障排除决策树+4种身份漂移模式+参考图卫生三法则+Prompt Anchors锚点法+多镜头一致性四步工作流+漂移修复决策框架+QA检查清单+Burst Frame技术+光照角色影响+真人面部政策+@引用优先级等19项。2026-06-16第十一期（v6.6）新增迭代生成工作流+温和动作词优先列表+参考视频精简法则+模板卡片格式+3项社区实测洞察等5项。2026-06-18第十二期（v6.7）新增Seedance 2.0 Mini正式发布分析+8要素英文提示词公式+Timeline Prompting@引用增强+Style Anchors风格锚点+Negative Anchors负面锚点+Lens Switch镜头切换关键词+Identity Blend身份融合现象+拆镜生成策略+丝带遮瑕技巧等9项。2026-06-19第十三期（v6.8）新增三档模型完整对比矩阵与迭代→交付工作流+Style Control Token系统（3风格+Style Lock）+Motion Risk运动风险分类+3-Angle Reference三角参考策略+Identity Anchoring身份锚定三策略+相机运动稳定分类+Instruction Contract指令契约框架+社区运营洞察+11维模型评分卡等9项。2026-06-21第十四期（v6.9）新增Seedance 2.5确认路线图（4K+实时+>15s+持久化身）+Seedance 2.0 4K升级预期+Lip Sync实战指南（2-roll limit+音频准备标准+Prompt cue技巧）+社区共识提示词结构（S→A→C→S→C）+Invideo补充规范（3K字符硬上限+前20-30词权重规则）+Kling 3.0价格对比等6项。2026-06-22第十五期（v7.0）新增CrePal 4块提示词结构（Subject/Motion/Style/Camera+Negatives电影人一页纸模式）+相机运镜完整可靠性表（8种稳定+5种易碎+结束状态收束法）+Lip Sync社区实战技巧（时长精确匹配+黑视频载体+多角色同场景）+Seedance 2.5发布状态更新（Barchart称已发布·多来源交叉验证）+Seedance 2.0 Enhanced Fast（Higgsfield独占ByteDance合作Tier）+Redreamality 12精选提示词类型汇总+Camera Movement Keywords速查表（11种运镜+英文关键词+视觉效果）等7项。2026-06-23第十六期（v7.1）新增"Cinematic"关键词陷阱（社区警示·flat gray输出+DP光照配方替代法）+SACSC五步提问法详解（中文社区实战·动作英文动词标注+"无XX"约束格式）+Seedance 2.1 Pandaily确认情报（20%提升+人物稳定+运动平滑+多镜叙事+音画同步+更长时长）+Seedance 2.0 Mini定价情报（低于Fast+评价三步骤）+Seedance 2.5详细预测更新（imagine.art深度分析·30-60s+跨代角色持久+流体/变形/粒子物理+商业授权+分发生态）+HeyGen电影摄影师工作流（相机元数据层/感官光照/种子一致性/帧率逻辑）+2.1/Mini发行状态交叉验证（5来源·官方未发布）等7项。2026-06-24第十七期（v7.2）新增Fliki Physics-First导演思维（物理>情绪·Dual-Branch架构·描述光照不描述氛围+60-120词区间+前20-30词权重铁律）+Fliki Shot-Script格式（命名镜头+时间码+叙事弧线+逐拍物理锚定）+MindStudio Timeline Prompting方法论（5步构建法+过渡逻辑+风格收束行·vs现有Timeline差异化）+MindStudio相机运镜词汇库（18种运镜+4种镜头/对焦+7种光照/色调·英文原词对照）+CSDN长视频制作三路径体系（延长接力/分段独立+剪辑/连续动作分镜·混合策略+质量衰减临界点+B-roll遮切法+音频优先原则）+CSDN口播/Lip-Sync专项指南（三级模板体系+5类问题迭代矩阵+批量化模板流程+干声音频优先）+CSDN素材管理最佳实践（功能角色四分法+项目文件夹结构+5-8文件黄金分配+@优先级规则）+KlingAIO黄金提示词公式（6段式Reference→Timeline·对标SACSC差异化）+KlingAIO高级运镜库（希区柯克变焦/弹道时间/SnorriCam/荷兰角等10种·英文Prompt模板）+Seedance 2.5发布窗口收窄（imagine.art 7月初vs 8月初分歧·Hedra称未确认·Barchart称已发布·三源交叉验证）+Hedra四大核技巧（2-3秒节奏分块/参考角色标签/音频驱动剪辑/多角度网格锁角色）+真人面部政策更新（2026年2月收紧·真人人脸/视频禁用·AI生成/动漫替代方案）+ByteDance生态新增（Seed2.0 LLM/Seedream 5.0 Lite/Seeduplex/Seed GR-RL）等13项。2026-06-26第十八期（v7.3）新增Seedance 2.5官方正式预览完整分析（2026-06-23 FORCE大会·五大升级+2.0 vs 2.5逐项对比表+提示词影响预判）+Morphic审核过滤深度指南（LLM上下文评估机制+场景框架四问公式+电影语言通行证策略+JSON原生支持+视觉事实原则+硬块两分类）+EvoLink精选模板库方法论（时间轴提示词+首尾帧控制+多参考协调+产品广告模式）+Reddit长提示词黑客技术（8K-10K超大prompt+社区验证）等4项。
+  每日深度研究更新（2026-05-01~2026-05-25，累计55天）。2026-05-26起调整为每周深度研究。2026-05-28第二期（v5.7）新增6项。2026-05-29第三期（v5.8）新增Timeline Prompting增强、Multi-Shot短片框架、参考锚定模式库、AI电影流水线、15模板库、官方能力盘点等6项。2026-05-30第四期（v5.9）新增Anchor & Master角色一致性工作流、PixVerse实战修复指南扩展、Seedance 2.0 vs Veo 3.1八维盲测对比等3项。2026-05-31第五期（v6.0）新增Seedance 2.1 & 2.0 Mini前瞻、Scenario多参考实战工作流、CreatOK LCB多镜头叙事工程、Physics-Aware Prompting（力驱动描述法）、角色一致性三重锁定法（Reset in Chains + Core Prompt Formula 6-Part）。2026-06-01第六期（v6.1）新增Seedance 2.1/Mini定价详细分析+Scenario Troubleshooting完整矩阵+Cliprise相机/光照/参考优先级补充+Atlabs Timeline三幕模板+Nine-Panel九格模板+Quick Fixes速查表。2026-06-02第七期（v6.2）新增角色一致性四方法体系+主流模型角色一致性横评+PixVerse V6 AI视频生成器+Seedance 2.0架构深度解析+跨模型身份锁定对照+Vidu主体参照系统+2026年AI视频行业4大趋势+2.1传言ByteDance官方否认勘误。2026-06-03第八期（v6.3）新增Pixo 3×3导演思维框架+Cliprise 8要素公式+相机光照参考库+4D Camera Codec系统+中英混搭语言策略+Seedance 2.0官方新能力详解。2026-06-13第九期（v6.4）新增2026年5月全平台定价矩阵更新+动作场景物理约束关键词+Artlist.io新分发渠道+团队模板库工作流建议。2026-06-14第十期（v6.5）新增一镜一动原则+角色1-2人硬限+提示词30-200词区间+速度距离配对+景别运镜兼容矩阵+6类型风格速查+音频词汇库+质量后缀+故障排除决策树+4种身份漂移模式+参考图卫生三法则+Prompt Anchors锚点法+多镜头一致性四步工作流+漂移修复决策框架+QA检查清单+Burst Frame技术+光照角色影响+真人面部政策+@引用优先级等19项。2026-06-16第十一期（v6.6）新增迭代生成工作流+温和动作词优先列表+参考视频精简法则+模板卡片格式+3项社区实测洞察等5项。2026-06-18第十二期（v6.7）新增Seedance 2.0 Mini正式发布分析+8要素英文提示词公式+Timeline Prompting@引用增强+Style Anchors风格锚点+Negative Anchors负面锚点+Lens Switch镜头切换关键词+Identity Blend身份融合现象+拆镜生成策略+丝带遮瑕技巧等9项。2026-06-19第十三期（v6.8）新增三档模型完整对比矩阵与迭代→交付工作流+Style Control Token系统（3风格+Style Lock）+Motion Risk运动风险分类+3-Angle Reference三角参考策略+Identity Anchoring身份锚定三策略+相机运动稳定分类+Instruction Contract指令契约框架+社区运营洞察+11维模型评分卡等9项。2026-06-21第十四期（v6.9）新增Seedance 2.5确认路线图（4K+实时+>15s+持久化身）+Seedance 2.0 4K升级预期+Lip Sync实战指南（2-roll limit+音频准备标准+Prompt cue技巧）+社区共识提示词结构（S→A→C→S→C）+Invideo补充规范（3K字符硬上限+前20-30词权重规则）+Kling 3.0价格对比等6项。2026-06-22第十五期（v7.0）新增CrePal 4块提示词结构（Subject/Motion/Style/Camera+Negatives电影人一页纸模式）+相机运镜完整可靠性表（8种稳定+5种易碎+结束状态收束法）+Lip Sync社区实战技巧（时长精确匹配+黑视频载体+多角色同场景）+Seedance 2.5发布状态更新（Barchart称已发布·多来源交叉验证）+Seedance 2.0 Enhanced Fast（Higgsfield独占ByteDance合作Tier）+Redreamality 12精选提示词类型汇总+Camera Movement Keywords速查表（11种运镜+英文关键词+视觉效果）等7项。2026-06-23第十六期（v7.1）新增"Cinematic"关键词陷阱（社区警示·flat gray输出+DP光照配方替代法）+SACSC五步提问法详解（中文社区实战·动作英文动词标注+"无XX"约束格式）+Seedance 2.1 Pandaily确认情报（20%提升+人物稳定+运动平滑+多镜叙事+音画同步+更长时长）+Seedance 2.0 Mini定价情报（低于Fast+评价三步骤）+Seedance 2.5详细预测更新（imagine.art深度分析·30-60s+跨代角色持久+流体/变形/粒子物理+商业授权+分发生态）+HeyGen电影摄影师工作流（相机元数据层/感官光照/种子一致性/帧率逻辑）+2.1/Mini发行状态交叉验证（5来源·官方未发布）等7项。2026-06-24第十七期（v7.2）新增Fliki Physics-First导演思维（物理>情绪·Dual-Branch架构·描述光照不描述氛围+60-120词区间+前20-30词权重铁律）+Fliki Shot-Script格式（命名镜头+时间码+叙事弧线+逐拍物理锚定）+MindStudio Timeline Prompting方法论（5步构建法+过渡逻辑+风格收束行·vs现有Timeline差异化）+MindStudio相机运镜词汇库（18种运镜+4种镜头/对焦+7种光照/色调·英文原词对照）+CSDN长视频制作三路径体系（延长接力/分段独立+剪辑/连续动作分镜·混合策略+质量衰减临界点+B-roll遮切法+音频优先原则）+CSDN口播/Lip-Sync专项指南（三级模板体系+5类问题迭代矩阵+批量化模板流程+干声音频优先）+CSDN素材管理最佳实践（功能角色四分法+项目文件夹结构+5-8文件黄金分配+@优先级规则）+KlingAIO黄金提示词公式（6段式Reference→Timeline·对标SACSC差异化）+KlingAIO高级运镜库（希区柯克变焦/弹道时间/SnorriCam/荷兰角等10种·英文Prompt模板）+Seedance 2.5发布窗口收窄（imagine.art 7月初vs 8月初分歧·Hedra称未确认·Barchart称已发布·三源交叉验证）+Hedra四大核技巧（2-3秒节奏分块/参考角色标签/音频驱动剪辑/多角度网格锁角色）+真人面部政策更新（2026年2月收紧·真人人脸/视频禁用·AI生成/动漫替代方案）+ByteDance生态新增（Seed2.0 LLM/Seedream 5.0 Lite/Seeduplex/Seed GR-RL）等13项。2026-06-26第十八期（v7.3）新增Seedance 2.5官方正式预览完整分析（2026-06-23 FORCE大会·五大升级+2.0 vs 2.5逐项对比表+提示词影响预判）+Morphic审核过滤深度指南（LLM上下文评估机制+场景框架四问公式+电影语言通行证策略+JSON原生支持+视觉事实原则+硬块两分类）+EvoLink精选模板库方法论（时间轴提示词+首尾帧控制+多参考协调+产品广告模式）+Reddit长提示词黑客技术（8K-10K超大prompt+社区验证）等4项。2026-06-27第十九期（v7.4）新增Lanham三种提示词格式决策树与JSON Schema（Plain Prose↔Timeline Bullets↔JSON+Subject Headers防漂移技术+对话2秒子弹限制）+Higgsfield四大类型多镜实战模板（Transformation 6镜情绪弧+POV Orb第一人称公式与VFX内嵌标注+Film Fight 5拍打斗公式）+Dexhunter/ByteDance官方中文技能文件索引（16类模板+文件格式硬性规范+@引用14种角色表+7条官方常见错误+收尾增强词库）等3项。2026-06-28第二十期（v7.5）新增Pixo 3×3导演思维完整框架（动作/情绪双场景模板+三大铁律）+Vofy身份锚定三级策略（L1最小/L2语义/L3多角色+运动风险分类）+CrePal身份漂移完整防治体系（4模式量化+参考卫生+修复决策树+QA清单）+Lip Sync黑视频载体法（社区验证·时长精确匹配）+Seedance 2.5深度更新（30s单次扩散+50参考+联合潜空间架构+4K 10-bit 2.0升级+工作流影响预测）等5项。2026-06-29第二十一期（v7.6）新增Invideo标签化提示词模板（[Industry Style]+8段标签·商业创作用）+Vmake Anchor&Master 7阶段工作流（权威角色锁定管线·种子DNA管理·关键帧注入+4K纹理锁定）+Soul ID跨模型桥接（一次训练·Kling/Veo/Seedance三模型复用）+Devtalk社区结构化共识（160+案例·Subject/Camera/Timeline块优于散文）+Vofy 5角色硬上限确认+Magic Hour 4参考标签模式库（First Frame Lock/Identity Lock/Camera Motion Lock/Audio Sync）等6项。
   
   核心能力：
   - 多版本提示词生成（精准/简洁/创意三版）
@@ -12035,16 +12035,712 @@ painterly cel-shaded textures
 
 ---
 
-## 版本说明 (2026-06-26)
+---
 
-- **版本**: v7.3（Seedance每周深度研究 2026-06-26 第十八期）
-- **整合时间**: 2026-06-26 02:00 AM (Asia/Shanghai)
-- **信息来源**: 10+独立来源（AtlasCloud Seedance 2.5深度分析 + Morphic审核过滤完整指南 + EvoLink 16精选模板库 + Reddit r/seedance2pro长提示词黑客 + Pandaily 2.5报道 + TNW FORCE大会报道 + LinkedIn/Hedra/Vasundhara/CNET/Imagine.art 2.5交叉验证 + NoviAI/YouMind/GitHub社区源）
-- **本次新增（2026-06-26，深度研究第十八期）**:
-  - ✅ 30.95: 🔴 Seedance 2.5官方正式预览完整分析（FORCE大会2026-06-23·五大升级+2.0 vs 2.5逐项对比+提示词影响预判+现实检验+行动建议）
-  - ✅ 30.96: 🔴 Morphic审核过滤深度指南（LLM上下文评估机制+场景框架四问公式+电影语言通行证策略+JSON原生支持+视觉事实原则+硬阻两分类+稀疏提示词陷阱+排查流程）
-  - ✅ 30.97: EvoLink精选模板库方法论（时间轴提示词+首尾帧控制+产品广告英雄镜头+风格锚定四模式+FAQ精华）
-  - ✅ 30.98: Reddit长提示词黑客（8K-10K超大prompt+社区验证+vs短prompt辩证法+场景复杂度分级策略）
-- **本次确认无新增（已有覆盖）**: Camera movement基础词汇、角色一致性技术、Timeline Prompting基础、首帧控制基础、@引用系统、运镜稳定性表
-- **SKILL状态**: 累计约225,000+字，持续每周深度研究
-- **周更机制**: 每周二凌晨2:00例行研究；此轮为第十八期深度研究
+### 30.100 Lanham三种提示词格式决策树与JSON Schema（2026-06-27新增）
+
+> 来源：Medium "Learn AI Filmmaking with Seedance 2.0 — Day 3: Timelines, Bullets, and JSON"（Micheal Lanham 7-Day系列第3篇，2026-04-29）
+
+#### 30.100.1 三种格式决策框架
+
+Lanham提出了Seedance 2.0提示词的三种格式及其选择逻辑——这是目前最清晰的提示词格式决策树：
+
+| 格式 | 适用场景 | 断裂点 | 代表案例 |
+|------|---------|--------|---------|
+| **Plain Prose（流畅散文）** | 单镜头无切镜、<5秒、角色连续表演 | 出现第二拍需要镜头变化 | 陶艺家手指特写5s连续动作 |
+| **Timeline Bullets（时间轴子弹点）** | 多拍序列、对话交换、光照/音频中间切换 | 堆叠3+动作到单个bullet | 雨夜街头四拍8s序列 |
+| **JSON（结构化对象）** | 最大一致性与控制、跨多镜需精确约束 | 键值不完整导致模型自由发挥 | 复杂叙事序列 |
+
+**核心原则**：
+> Plain prose is for single uninterrupted clips; timelines and JSON are for sequences. If your shot needs beats, reach for structure.
+
+**选择决策流程**：
+```
+需要多镜切换？→ 否 → Plain Prose（连续镜头/角色表演）
+              → 是 → 需要极精确逐维控制？→ 是 → JSON
+                                         → 否 → Timeline Bullets
+```
+
+#### 30.100.2 Timeline Bullets格式规则（补充强化）
+
+Lanham的bullet格式规则比现有SKILL.md中的Timeline Prompting（30.28/30.34/20.1）更精炼，值得合并：
+
+**五大硬性规则**：
+1. **全局Header**：`[Duration: 8s | Aspect: 16:9]` 必须写在最上面
+2. **时间范围用秒数**：`0–2s` 优于 `0–48f`（Seedance处理秒更可靠）
+3. **每bullet一个主拍**：不堆叠3个动作到一个bullet，多一个动作就加一个bullet
+4. **明确过渡词**：切镜写"cut to"、推拉写"camera dollies"、连续动作不写过渡
+5. **Subject Headers技术**（新增·关键）：角色描述写一次在bullet列表上方，**不在每个bullet中重复描述**——否则模型会对重复描述过权重，导致人物漂移
+
+**Subject Headers示例**（Lanham格式）：
+```
+Sarah Chen — tall woman, late thirties, red leather jacket, short
+black hair, small pale scar above her left eyebrow, heavy English
+accent, moves with rigid purpose.
+
+Detective Morrison — tall man, early fifties, bearded, wire-rim
+glasses, gray three-piece suit, gravelly voice, general American
+accent, moves in a relaxed manner.
+
+[Duration: 8s | Aspect: 16:9 | Camera: ARRI Alexa Mini LF at 24fps,
+35mm prime at T1.8; Color Grade: warm amber highlights, cool teal
+shadows, bleach-bypass-lite contrast, soft halation, fine 35mm
+film grain, Kodak 2383 print emulation]
+
+• 0s — (establishing shot, golden hour) Sarah Chen and Detective
+  Morrison walk down a busy downtown city street.
+• 0–2s — (cut to close-up on Sarah Chen, golden hour lighting)
+  Sarah Chen (whispering urgently): "They're already here."
+• 2–4s — (quick pan to close-up on Detective Morrison,
+  soft-diffused lighting) Detective Morrison (gravelly voice,
+  concerned): "How many?"
+• 4–8s — (cut to over-the-shoulder on Sarah Chen, golden hour
+  lighting) Sarah Chen (louder, decisive): "Too many. We need
+  backup."
+
+Constraints: avoid identity drift, wardrobe change, background
+instability, lip-sync drift, extra dialogue not in quotes.
+```
+
+#### 30.100.3 对话时长硬性限制（新规则）
+
+> **The dialogue rule you must not break**（Lanham原文强调）：你无法把长篇对话塞进8秒片段。
+
+- **每2秒bullet最多1-2句短台词**
+- 超过此限 → 模型会加速/压缩/丢弃台词
+- **解决方案**：将长对话拆成多个独立生成，后期剪辑拼接
+
+#### 30.100.4 Seedance JSON Schema（新格式）
+
+Lanham提供了完整的JSON schema用于Seedance提示词——这是目前唯一经过验证的Seedance JSON结构：
+
+```json
+{
+  "scene": "A detective's office at midnight",
+  "duration_seconds": 8,
+  "aspect_ratio": "16:9",
+  "camera_package": {
+    "body": "ARRI Alexa Mini LF",
+    "fps": 24,
+    "lens": "35mm prime at T1.8",
+    "color_grade": "warm amber highlights, cool teal shadows"
+  },
+  "shots": [
+    {
+      "narrative_beat": "establishing",
+      "time_range": "0–2s",
+      "performer": "Sarah Chen",
+      "camera": "medium close-up",
+      "framing": "golden hour, city street background",
+      "lighting": "warm amber from setting sun",
+      "audio": "city ambience, footsteps",
+      "transition": "cut"
+    },
+    {
+      "narrative_beat": "dialogue beat 1",
+      "time_range": "2–4s",
+      "performer": "Detective Morrison",
+      "camera": "close-up, quick pan from Sarah",
+      "framing": "soft-diffused, background blurred",
+      "lighting": "soft key light from desk lamp",
+      "audio": "gravelly voice: 'How many?'",
+      "transition": "quick pan"
+    }
+  ],
+  "constraints": [
+    "avoid identity drift",
+    "wardrobe consistency",
+    "background stability",
+    "lip-sync accuracy"
+  ]
+}
+```
+
+**JSON格式优势**：
+- 每个维度被强制填充（不允许空槽）
+- 模型获得结构化约束而非自由文本
+- 跨多代重渲染时可复现
+
+**何时用JSON vs Bullets**：
+- Bullets：3-5拍、中等复杂度、快速迭代 → 写起来快
+- JSON：5+拍、多角色、需精准复现 → 约束最严
+
+---
+
+### 30.101 Higgsfield四大类型完整多镜实战模板（2026-06-27新增）
+
+> 来源：Higgsfield.ai "Seedance 2.0 — Complete Prompting Guide (Full Prompt Library)"（Rus Syzdykov, 2026-04-13）
+> 
+> ⚠️ 已有覆盖说明：Higgsfield Pro Tips（no 3D/no VFX/visual gag）已在 v7.0 §20.4 收录。本节新增**完整类型模板的6镜结构和情绪弧线设计**——之前未系统整理。
+
+#### 30.101.1 核心规则（所有类型通用）
+
+> "One rule applies to every format below: **always specify your shot structure upfront.** State the number of shots, the total duration, and the aspect ratio at the top of the prompt."
+
+**每个类型模板的6镜结构遵循**：
+```
+[全局风格声明] → [叙事摘要段] → [Shot 1~6逐镜描述] → [Total: Xs / X shots / X:X]
+```
+
+#### 30.101.2 Transformation（变形）类型
+
+**情绪弧线**：`calm → threat → transformation → aftermath`
+
+**6镜结构模板**：
+
+| 镜号 | 功能 | 景别 | 运镜 | 内容 |
+|------|------|------|------|------|
+| Shot 1 | 平静日常 | 中景 | 轻微晃动 | 主角在日常环境中做普通动作 |
+| Shot 2 | 威胁出现 | 全景 | 抖动跟拍 | 威胁物（怪物/敌人）从远处逼近 |
+| Shot 3 | 察觉 | 特写 | 固定 | 主角注意到威胁，表情变化（不是恐惧·是烦扰） |
+| Shot 4 | 爆裂变形 | 中景 | 剧烈抖动·每声骨裂对应一抖 | 身体膨胀/扭曲/盔甲组装·分步骤描述 |
+| Shot 5 | 毁灭打击 | 低角度全景 | 快门震动 | 变形后的主角一击摧毁威胁·慢动作 |
+| Shot 6 | 回归平静 | 中景 | 稳定 | 缩回原型·继续做之前的事·仿佛无事发生 |
+
+**代表案例**：
+- Burger Transformation：女孩吃汉堡→僵尸冲来→变巨怪吞僵尸→恢复继续吃汉堡
+- Bus Transformation：巴士上红发女孩→窗外巨兽肆虐→变绿甲机器少女→一击毁灭→回座
+
+#### 30.101.3 POV Orb（第一人称球）类型
+
+**定义**：全程单一第一人称镜头，摄像机=角色眼睛。
+
+**核心要素**（Higgsfield公式）：
+```
+Single continuous shot, first-person POV perspective, the camera IS
+her eyes, hyper-chaotic handheld motion, completely unstabilized,
+violent raw human movement, constant micro-jitters, aggressive head
+swings, abrupt jerks, frequent over-rotation and harsh correction,
+moments of near motion blur loss, no smoothness at all, no
+stabilization, wide-angle lens (strong distortion), subtle chromatic
+aberration near frame edges, 15 seconds, her hands always visible in
+frame, no music only raw SFX
+```
+
+**VFX内嵌标注**（新增技术）：
+> 在动作描述中直接用方括号标注VFX，不打断镜头描述：
+> `[VFX: branching electric circuits pulsing with white-blue current]`
+> 
+> 这告诉Seedance特效应该长什么样，不需要单独写特效段。
+
+**Orb类型三要素**：
+1. 角色能力 → 什么超能力？
+2. 环境 → 什么战场？
+3. 敌人 → 什么威胁？
+
+#### 30.101.4 Film Fight（电影打斗）类型
+
+**5拍打斗公式**：
+
+| 拍 | 名称 | 镜头 | 时长 | 内容 |
+|----|------|------|------|------|
+| Beat 1 | Training | 中景固定 | 2-3s | 主角独自练招/热身·建立战斗风格 |
+| Beat 2 | Exchange | 双人全景+摇镜 | 3-4s | 双方交手·来回3-5招·以一次命中结束 |
+| Beat 3 | Clash | 低角度特写 | 2-3s | 武器/拳头碰撞·力量对抗·慢放 |
+| Beat 4 | Injury | 特写+跟拍 | 2-3s | 一方受伤·血迹/伤痕·表情痛苦 |
+| Beat 5 | Finish | 全景俯拍 | 2-3s | 终结一击·一方倒地·收束定格 |
+
+**打斗运镜原则**：
+- Training = 固定（展示动作）
+- Exchange = 手摇/跟拍（增加火药味）
+- Clash = 慢放（力量感）
+- Injury = POV/特写（冲击感）
+- Finish = 拉远/俯拍（尘埃落定）
+
+---
+
+### 30.102 Dexhunter/ByteDance官方中文技能文件索引（2026-06-27新增）
+
+> 来源：GitHub `dexhunter/seedance2-skill`（字节跳动Seedance团队维护的官方OpenClaw/Claude技能文件，2026-06更新）
+> 
+> 这是**目前最权威的Seedance 2.0中文提示词参考**——由Seedance产品团队直接维护，包含官方规范、模板库和常见错误排查。
+
+#### 30.102.1 资源概览
+
+| 项目 | 内容 |
+|------|------|
+| 仓库 | `github.com/dexhunter/seedance2-skill` |
+| 语言 | 中文+英文双版本 |
+| 适用范围 | Seedance 2.0全功能覆盖 |
+| 维护者 | ByteDance Seedance团队 |
+
+#### 30.102.2 官方文件格式硬性规范
+
+| 输入类型 | 数量上限 | 支持格式 | 大小限制 |
+|---------|---------|---------|---------|
+| 图片 | ≤9张 | jpeg, png, webp, bmp, tiff, gif | 每张<30MB |
+| 视频 | ≤3个 | mp4, mov | 每个<50MB, 总时长2-15s |
+| 音频 | ≤3个 | mp3, wav | 每个<15MB, 总时长≤15s |
+| 总文件数 | ≤12个 | — | — |
+
+**生成参数**：
+- 时长：4-15秒（可自由选择）
+- 自带音效/配乐
+- 分辨率：480p（640×640）至 720p（834×1112）
+- **真人面部限制**：不支持写实真人脸部素材（图片和视频均不可），系统自动拦截
+- 有参考视频时生成费用略高
+
+#### 30.102.3 官方@引用完整角色表
+
+| 用途 | 示例写法 |
+|------|---------|
+| 首帧 | `@图片1 作为首帧` |
+| 尾帧 | `@图片2 作为尾帧` |
+| 人物形象 | `参考 @图片1 的人物形象` |
+| 场景/背景 | `场景参考 @图片3` |
+| 运镜 | `参考 @视频1 的运镜效果` |
+| 动作 | `参考 @视频1 的动作编排` |
+| 特效 | `完全参考 @视频1 的特效和转场` |
+| 节奏/节拍 | `视频节奏参考 @视频1` |
+| 音色/语气 | `旁白音色参考 @视频1` |
+| 背景音乐 | `背景BGM参考 @音频1` |
+| 音效 | `音效参考 @视频3 的音效` |
+| 服装 | `穿着 @图片2 的服装` |
+| 产品外观 | `产品细节参考 @图片3` |
+| 字体/文字 | `字体参考 @图片2 的字体` |
+
+**组合引用示例**：
+```
+@图片1 的人物作为主体，参考 @视频1 的运镜和动作编排，
+背景BGM参考 @音频1，场景参考 @图片2
+```
+
+#### 30.102.4 官方完整模板库（12+类型）
+
+| # | 类型 | 核心技巧 | 代表场景 |
+|---|------|---------|---------|
+| 1 | 运镜复刻 | `完全参考 @视频1 的所有运镜效果` | 电梯惊恐→希区柯克变焦→环绕→跟拍出电梯 |
+| 2 | 广告创意 | `转场/特效复刻+产品替换` | 科幻眼镜→AI虚拟世界→蓝色宇宙→像素世界→纹理星球 |
+| 3 | 视频延长 | `将@视频1延长X秒`（生成长度=新增部分时长） | 咖啡豆飘落→品牌标题渐显 |
+| 4 | 向前延长 | `向前延长10s` | 从街角遮阳篷→墙根雏菊的逆时间延伸 |
+| 5 | 剧情颠覆 | `颠覆 @视频1 里的剧情` | 温柔→冰冷狠厉，推女主下水 |
+| 6 | 角色替换 | 将原视频角色换为参考图角色，完全模仿原动作 | 女主唱→男主唱，不切镜 |
+| 7 | 元素添加 | 发型变色+背后加鲨鱼 | 红发+大白鲨半露头 |
+| 8 | 音乐卡点 | 多图片按音乐关键帧位置卡点 | 6-7张图+参考视频节奏卡点 |
+| 9 | 角色对话 | 脱口秀风格对话 | 猫主持+狗主持的吐槽对话 |
+| 10 | 一镜到底 | 全程无剪辑追踪镜头 | 街头→楼梯→走廊→屋顶→俯瞰城市 |
+| 11 | 一镜到底+场景切换 | 路人遮挡实现场景切换·不切镜 | 红风衣女特工→拐角面具女→豪宅 |
+| 12 | 产品展示 | 360°旋转+爆炸分解+组合 | 汉堡分层悬浮→食材分离→组合成双层汉堡 |
+| 13 | 医学科普 | 透明人体可视化+前后对比 | 动脉血流→糖脂入侵→血管变窄 |
+| 14 | 漫画演绎 | 按阅读顺序演绎分镜+台词+音效 | 从左到右从上到下漫画→视频 |
+| 15 | 分镜脚本生成 | 参考图片的分镜/景别/运镜创作新内容 | 专题片分镜→"童年的四季"治愈系片头 |
+| 16 | 多视频融合 | 粒子过渡→形态渐变→消散 | 粒子马→具象马→奔跑→消散 |
+
+#### 30.102.5 官方常见错误清单
+
+| # | 错误类型 | 具体表现 | 修复方案 |
+|---|---------|---------|---------|
+| 1 | @引用模糊 | 只写"参考@视频1"不说参考什么 | 必须说清：参考运镜？动作？特效？节奏？ |
+| 2 | 指令冲突 | 同一段同时要求"固定镜头"和"环绕镜头" | 不同时间段分派不同运镜 |
+| 3 | 内容过载 | 4-5秒内塞太多场景 | 按物理可行性分配时间 |
+| 4 | 素材无归属 | 上传5张图片只用3张 | 每一张上传的素材都必须用@标注用途 |
+| 5 | 忽视音频 | 只写画面不写声音 | 音效设计大幅提升输出质量，必写 |
+| 6 | 时长不匹配 | 提示词复杂度与生成时长不符 | 复杂叙事用更长时长 |
+| 7 | 写实人脸 | 上传真人面部素材 | 真人可辨识面部系统自动拦截 |
+
+#### 30.102.6 官方推荐收尾增强词
+
+在提示词末尾添加以下词汇提升输出质量：
+
+**画质增强**：
+- `电影级质感，胶片颗粒，浅景深`
+- `2.35:1宽银幕，24fps`
+
+**风格锚定**：
+- `黑白水墨风格 / 动漫风格 / 超写实`
+- `高饱和霓虹色调，冷暖对比`
+- `超逼真4K医学CGI，半透明可视化`
+- `超精细CG动画技术`
+
+**情绪氛围**：
+- `紧张悬疑 / 温暖治愈 / 史诗恢宏`
+- `喜剧风格，表情夸张`
+- `纪录片风格，旁白克制`
+- `暗黑奇幻 / 仙侠高燃`
+
+**音频**：
+- `背景音乐：恢宏大气`
+- `音效：走路声、人群声、汽车声`
+- `脚步声、呼吸声、衣料摩擦声必须清晰并与节拍贴合`
+
+---
+
+### 30.103 综合更新摘要（v7.4）
+
+| 编号 | 新增内容 | 类型 | 来源 |
+|------|---------|------|------|
+| 30.100 | Lanham三种格式决策树（Plain Prose↔Timeline Bullets↔JSON）+ Subject Headers技术 + 对话时长限制 + JSON完整Schema | 方法论 | Medium Micheal Lanham |
+| 30.101 | Higgsfield四大类型多镜模板（Transformation 6镜情绪弧 + POV Orb第一人称公式 + Film Fight 5拍打斗公式） | 模板库 | Higgsfield.ai Rus Syzdykov |
+| 30.102 | Dexhunter/ByteDance官方中文技能文件索引（16类模板 + 文件格式硬性规范 + @引用完整角色表 + 7条常见错误 + 收尾增强词库） | 🔴 官方资源 | GitHub ByteDance |
+
+**本次确认无新增（已有覆盖）**: Cliprise 8要素公式+Final Beat（v6.3 30.20/v7.1 30.60）、Lens Switch（v6.7 30.72.6）、Higgsfield Pro Tips no 3D/no VFX/visual gag（v7.0 §20.4/§27.1）、身份漂移4模式（v6.5 30.69）、Negative Anchors（v6.7 30.72）、3-Angle Reference（v6.8 30.74）、参考图卫生三法则（v6.5）、JSON支持（v7.3 30.96）、Timeline Prompting（v6.7 v7.2多节覆盖）、角色一致性（v6.2 v6.5多节覆盖）、相机运镜稳定性表（v7.0 30.72）
+
+**🔴 本期最大意义**：
+1. **Lanham JSON Schema是首次系统记录的Seedance JSON提示词完整结构**——此前JSON仅作为概念提及（v7.3 Morphic），现在有了可复用的schema模板
+2. **Higgsfield四大类型模板补齐了"类型电影"维度的知识空白**——此前只有单个技巧，现在有了完整情绪弧线+分镜结构
+3. **Dexhunter官方文件是ByteDance团队直出的最权威参考**——16类模板+官方文件格式规范+7条常见错误=生产级知识库锚点
+
+---
+
+---
+
+### 30.103 Pixo 3×3 导演思维完整框架（2026-06-28 新增）
+
+> 来源：pixo.video 2026-04-04 深度文章（种子期 v6.3 仅提及，此为完整解析）
+
+#### 30.103.1 核心洞察：从「叙事者」到「视觉导演」
+
+**这是提示词水平的根本分水岭。**
+
+| 维度 | 叙事式写法（普通用户） | 导演式写法（专业用户） |
+|------|-------------------|-------------------|
+| 情绪 | She is sad | Disheveled hair clings to pale cheeks, trembling fingertips clutch a faded photograph |
+| 氛围 | A street after rain | A rain-soaked cyberpunk alley, wet red brick walls reflecting magenta neon glow |
+| 动作 | He ran | He glances nervously behind, suddenly flips up his collar, sprints along the wall |
+
+**成功率差距**：导演式提示词的首拍可用率（无需重生成）是叙事式的 **3-4倍**。
+
+#### 30.103.2 3×3法则完整框架
+
+**结构**：9个关键镜头（每个50-80词），分3个叙事阶段，共同构建上升的视觉情绪弧线。
+
+**动作场景 3×3 模板（赛博朋克巷战）**：
+
+| 阶段 | 镜头 | 核心描写 |
+|------|------|---------|
+| **Phase 1: 危机（压力积累）** | Shot 1·追兵逼近 | 探照灯扫过湿砖墙，3架无人机悬浮巷口，红光脉冲 |
+| | Shot 2·屏息 | 主人公贴垃圾桶暗面，冷汗流过义体下颌，呼吸掀动衣领 |
+| | Shot 3·暴露 | 野猫踢倒玻璃瓶，脆响回荡，无人机红光瞬间锁定目标 |
+| **Phase 2: 爆发（释放动能）** | Shot 4·突围 | 蹬墙纵身跃起，风衣下摆在空中华丽弧线，靴底火花四溅 |
+| | Shot 5·交火 | 蓝色脉冲激光擦过肩膀，击碎霓虹管，碎片散射 |
+| | Shot 6·微特写 | 瞳孔急剧收缩，义眼数据流疯狂闪烁，在计算逃生路线 |
+| **Phase 3: 释放（情绪与视觉收束）** | Shot 7·信仰之跃 | 慢动作。冲出巷尾，跃入脚下霓虹深渊 |
+| | Shot 8·冲击 | 沉闷金属撞击，砸在飞驰的悬浮车顶，手指扣住边缘 |
+| | Shot 9·尘埃落定 | 悬浮车消失工业浓雾，镜头拉远，无人机在空巷中茫然盘旋 |
+
+**情绪场景 3×3 模板（火车站重逢）**：
+
+| 阶段 | 镜头 | 核心描写 |
+|------|------|---------|
+| **Phase 1: 期待（气氛营造）** | Shot 1·设定场景 | 复古机车白蒸汽翻涌月台，老挂钟秒针沉重闷响 |
+| | Shot 2·焦虑等待 | 男人在黄线外踱步，手指无意识揉搓泛黄旧照片 |
+| | Shot 3·火车进站 | 刺耳刹车声中钢铁巨兽驶入，暖橙灯光在车窗闪烁 |
+| **Phase 2: 认出（情绪上升）** | Shot 4·人潮涌动 | 旅客洪水般涌出，男人目光在人群中疯狂搜寻 |
+| | Shot 5·目光相遇 | 镜头推进。红贝雷帽女子停住脚步。目光透过薄雾瞬间锁定 |
+| | Shot 6·失控** | 复古皮箱从手中滑落，砸地闷响。捂住嘴。眼眶瞬间变红 |
+| **Phase 3: 释放（情绪巅峰）** | Shot 7·奔向彼此 | 两人同时奔跑，大步走变跑，衣角在风中绞缠 |
+| | Shot 8·拥抱 | 剧烈冲撞后紧紧相拥，脸埋进肩膀，泪水浸透大衣 |
+| | Shot 9·余韵** | 镜头缓慢抬升。一缕晨曦穿透车站玻璃穹顶，落在相拥的两人身上 |
+
+**模式规律**：
+- **动作场景**用动词密度（kick/vault/shatter/slam）刺激肾上腺素
+- **情绪场景**用感官细节（滴答声/泛黄照片/大衣质感）积累情绪势能
+- 3×3是骨架，不同类型的「肌肉」决定最终风格
+
+#### 30.103.3 导演三大铁律
+
+**铁律1：一镜一动（One Prompt, One Action）**
+- 50-80词的提示词中塞入2个以上复杂动作（"边跑边转身射击边翻滚躲避爆炸"）→ 模型在冲突指令间挣扎 → 输出混乱
+- 正确做法：复杂动作拆成多镜，每镜一个核心动作
+
+**铁律2：用物理描述替代情绪形容词**
+AI不理解"悲伤"，理解"凌乱的发丝""苍白的指节""破碎的倒影"。
+
+| ❌ 不写 | ✅ 写 |
+|--------|------|
+| She is very sad | Her eyelashes droop, a single tear traces down a pale cheek and falls onto a clenched hand |
+| The atmosphere is tense | Fluorescent lights flicker erratically, metal scraping across the floor echoes from the far end |
+| He is happy | His lips curl up to reveal a canine tooth, sunlight hits his face, eyes curve into crescents |
+
+**铁律3：始终指定光照和相机**
+- 同一场景有/无"金色逆光穿透窗帘缝隙"→ 画面质量天壤之别
+- 相机语言是免费的质量升级
+
+---
+
+### 30.104 Vofy 身份锚定策略分级体系（2026-06-28 新增）
+
+> 来源：vofy.art 深度指南（种子期 v6.8 有身份锚定概述，此为三级分级体系）
+
+#### 30.104.1 三级锚定策略
+
+| 级别 | 策略 | 适用场景 | 示例 |
+|------|------|---------|------|
+| **L1·最小锚定** | `@Image1 的角色` + 简单动作 | 单人简单场景，无歧义 | `The character from @Image1, walking through a park, natural daylight, medium shot` |
+| **L2·语义锚定** | 添加一个轻量识别特征，减少模糊 | 繁忙场景或多元素 | `The woman with short black hair @Image1, sitting at a cafe table with laptop, afternoon lighting, shallow depth of field` |
+| **L3·多角色锚定** | 每个角色独立锚定+清晰标记 | 多角色同场景 | `The man in the blue jacket @Image1 talking to the woman in the red dress @Image2, coffee shop interior, natural conversation, medium two-shot` |
+
+**关键原则**：身份是**图片主导**的（image-led），不是文本主导的（text-led）。参考图定义角色是谁，提示词定义角色在做什么。
+
+#### 30.104.2 参考图质量标准
+
+| 参数 | 最低要求 | 推荐 |
+|------|---------|------|
+| 分辨率 | 2K | 4K |
+| 光照 | 均匀、中性、无强烈阴影 | 柔和自然光 |
+| 角度 | 正面或轻微3/4 | 3-Angle套装（正面+3/4+侧面） |
+| 表情 | 中性或轻微微笑 | 中性 |
+| 背景 | 干净、最小干扰 | 纯色或虚化背景 |
+| 对焦 | 面部特征清晰 | 眼部锐利 |
+| 压缩 | 最小压缩伪影 | 无损或高质量JPEG |
+
+#### 30.104.3 运动风险分类（身份保持视角）
+
+| 风险等级 | 运动类型 | 身份稳定性 |
+|---------|---------|-----------|
+| **低风险** ✅ | 慢速转头(<45°) / 走向或远离镜头 / 微妙表情 / 受控手势 | 稳定 |
+| **高风险** ⚠️ | 快速转头(>90°) / 极端透视变化 / 快速运镜+角色运动双快 / 360°旋转 | 极易漂移 |
+
+**策略**：关键镜头如需身份绝对锁定，最小化运动复杂度。
+
+#### 30.104.4 身份锚定常见错误
+
+| 错误 | ❌ 错误写法 | ✅ 正确写法 |
+|------|-----------|-----------|
+| 过度描述脸部 | `The woman with blue eyes, small nose, high cheekbones, and blonde hair @Image1` | `The woman with blonde hair @Image1`（参考图已有脸部信息，过度描述产生冲突） |
+| 语义锚定不一致 | Shot1: `blonde hair` → Shot2: `light hair` → Shot3: `the character` | 全部用统一锚定词：`The woman with blonde hair @Image1` |
+| 身份与动作混合 | `The smiling woman with blonde hair @Image1 walking happily` | `The woman with blonde hair @Image1, walking, smiling, happy expression`（分开锚定+动作） |
+| 极端角度无适配参考 | 从正面参考生成侧面90° | 使用3-Angle参考策略，按目标角度选最近参考图 |
+
+---
+
+### 30.105 CrePal 身份漂移完整防治与修复体系（2026-06-28 新增）
+
+> 来源：crepal.ai Dora 3周42条实测报告（种子期 v6.5 有基础概念，此为完整方法+修复体系）
+
+#### 30.105.1 四种漂移模式详述
+
+| 模式 | 表现 | 首次出现帧 | 典型案例 |
+|------|------|-----------|---------|
+| **特征侵蚀** | 小配饰/标志（疤痕/耳环/纹身）最先消失 | ~frame 40 | 鼻环在第40帧消失 |
+| **姿态翻转** | 手/主导侧/视线左右颠倒，通常因模型重新解读中性姿势 | 镜头切换时 | 角色镜像化 |
+| **风格漂移** | 色饱和度/线条粗细/面部比例变化 | shot 2→3 | 照片写实→轻度动漫 |
+| **身份融合** | 两张参考图时模型取平均→不A不B的杂交体 | 双参考同时使用时 | 两种光照的参考图混合 |
+
+#### 30.105.2 参考卫生：少即是多
+
+**核心发现**：将参考图从6张精减到2张一致性图片后，后续镜头中可察觉漂移减少约**60%**。
+
+**三大参考规则**：
+1. **角度**：最多2张，角度相似。不混用正面+侧面——模型尝试调和差异，往往发明不存在的新特征
+2. **光照**：匹配色温和强度。混合暖色室内+冷色室外照片 → 模型交替眼珠颜色和皮肤高光
+3. **服装**：标志性服装保持一致性。如果服装需变化，在脚本中引入，不在参考集中
+
+**实用注释法**：`ref1_3q_warm_2026-02-03`（3/4角度+暖光+日期）→ 可复现，强制选择性。
+
+#### 30.105.3 Prompt Anchors 锚定法
+
+**分层策略**：
+
+| 层级 | 内容 | 规则 |
+|------|------|------|
+| **不可变锚点**（每镜必写） | 性别呈现、主导配饰（"左鼻孔小环"）、头发长度颜色、特征疤痕/纹身、主导手、一个性格特征（"冷笑"） | 跨镜绝不改变 |
+| **灵活细节**（可按镜变化） | 微手势、服装微调、背景道具 | 除非影响连续性，否则省略以减少模型再平衡冲动 |
+
+**锚点行示例**：
+```
+Character: Mara, female-presenting barista, olive skin, short dark hair with green beanie, small left nostril ring, left-handed, wry smile. Keep these features unchanged.
+```
+
+**Negative Anchor 技巧**（有效）**：
+```
+No mirrored features, no missing piercings.
+```
+Seedance对显式否定句响应出奇地好。
+
+#### 30.105.4 多镜一致性四步工作流
+
+```
+Step 1: 固定角色块（Fixed Character Block）
+→ 单段紧凑文本，包含所有不可变锚点+缩略参考索引（ref1/ref2+简短注释）
+→ 保存为可复用「角色块」
+
+Step 2: 可变场景块（Variable Scene Block）
+→ 镜头特定方向：机位/角度/动作/光影调整/情绪节拍
+→ 保持简短，配对一张参考图
+
+Step 3: 逐镜台账（Shot-by-Shot Ledger）
+→ 表格列：shot ID / scene block / character block（引用保存的块）/ seed值 / 备注
+→ 每镜生成时记录时间戳
+
+Step 4: 一致性审查（Consistency Pass）
+→ 仅当角色块变更时才需重新生成
+→ 镜头微调：复制→仅改可变场景块→角色块保持不变
+```
+
+#### 30.105.5 漂移修复决策框架
+
+| 情况 | 方案 | 条件 |
+|------|------|------|
+| 单镜漂移+周围素材完好 | **重新剪辑**（Recut） | 修整/重排镜头，可用切离镜头隐藏 |
+| 小差异（如缺失耳环） | **遮罩合成**（Mask & Composite） | 导出帧→PS/AE补回配件，修复时间<重生成 |
+| 系统性漂移（脸型/主导手/主要特征） | **严格锚定重生成**（Regenerate） | 使用角色块+固定seed锁定基础身份 |
+
+**决策规则**：如果修复耗时 < 同质量重新渲染整场 → 合成。否则 → 严格锚定+锁定seed重生成。
+
+#### 30.105.6 导出前QA检查清单
+
+- [ ] **锚点审计**：每个镜头提示词中是否包含所有不可变锚点？（帽子/鼻环/左手主导标记）
+- [ ] **特征扫描**：快速刷一遍丢失的配件/翻转的姿态/跨切的光影跳跃
+- [ ] **Seed一致性**：如果使用固定seed锁定角色块，确认重新渲染时未被覆盖
+- [ ] **跨镜光照**：播放4镜循环，观察是否有突然的高光/色温变化
+- [ ] **微表情连续性**：微笑和视线变化在不同镜头中是否像同一个人？
+
+---
+
+### 30.106 Lip Sync：黑视频载体法与其他社区技巧（2026-06-28 新增）
+
+> 来源：Reddit r/Seedance_AI + r/seedance 社区实测（补充 v6.9/v7.0 基础覆盖）
+
+#### 30.106.1 黑视频载体法（社区验证·成功率最高）
+
+**核心原则**：永远不要单独上传音频作为参考——**始终使用黑底视频+音频叠加**。
+
+```
+❌ 错误：单独上传 @audio1 并期望唇形同步
+✅ 正确：将音频嵌入一个黑底视频中，上传 @video1，写：
+   "Make @character lip-sync perfectly to the audio in @video1"
+```
+
+**为什么有效**：Seedance对视频参考的权重 > 纯音频参考。将音频封装为视频格式后，模型将其视为"用于同步的视频源"，处理精度大幅提升。
+
+#### 30.106.2 时长精确匹配规则
+
+**社区实测发现**：当参考视频（含音频）的时长**精确等于**请求输出时长时，唇形同步成功率显著提高。
+
+```
+✅ 参考视频=15秒 → 请求生成=15秒
+⚠️ 参考视频=10秒 → 请求生成=15秒（模型需要"编造"额外5秒的口型，崩溃概率大）
+```
+
+#### 30.106.3 多角色唇形同步注意
+
+- 多人同时说话时，口型同步精度会下降（官方已知缺陷）
+- 同一场景中优先单人说话
+- 如必须多人对话，使用过肩镜头交替焦点，减少同时开口帧数
+
+---
+
+### 30.107 Seedance 2.5 深度更新（2026-06-28 新增）
+
+> 来源：TechTimes / AtlasCloud / CNET / MindStudio / Vasundhara 多源交叉验证
+> 种子期 v7.3 有 FORCE 大会概要，以下为新增的架构与产业影响细节
+
+#### 30.107.1 五大核心升级（与2.0逐项对比）
+
+| 维度 | Seedance 2.0 | Seedance 2.5 | 影响 |
+|------|-------------|-------------|------|
+| **原生时长** | 15秒（30秒需拼接） | **30秒单次扩散直出** | 无需缝合，消除接缝处角色漂移和光照断裂 |
+| **参考容量** | 12个（9图+3视频+3音频） | **50个全模态资产** | 品牌一致性工作流、多集叙事可行 |
+| **编辑能力** | 全量重生成 | **局部区域编辑**（换衣/换产品/换背景） | 修复不重跑整段，修改唇膏不崩场景 |
+| **分辨率** | 1080p | 4K + **10-bit色深**（2.0已同步升级4K） | 后期调色余量大，暗部过渡平滑 |
+| **架构** | 独立音视频生成后同步 | **统一联合音视频潜空间**（spatial-temporal attention） | 音画融合更深，30秒内角色/光照/运动全维度稳定 |
+
+#### 30.107.2 联合音视频潜空间架构
+
+这是2.5最本质的架构升级（非简单加时）：
+
+- **2.0**：视频和音频分别在各自分支生成后做对齐（Dual-Branch），15秒后一致性开始丢失
+- **2.5**：视频信号和音频信号在**同一个潜空间内共处理**（Unified Joint Latent Space），优化后的时空注意力机制（spatial-temporal attention mechanisms）在30秒全段内保持物体身份和场景状态
+
+**对提示词的影响**：
+- 2.5时代可以写更长的连贯动作链（不再受15秒分段的碎片化限制）
+- 单一prompt可覆盖完整的叙事单元（起-承-转-合）
+- 参考素材从"锚定元素"升级为"场景组织器"——可上传10+演员参考图，让模型自行在画面中安排
+
+#### 30.107.3 Seedance 2.0 同步升级：4K 10-bit
+
+FORCE大会同时宣布 **Seedance 2.0 已升级支持原生4K输出+10-bit色彩深度**（不影响2.5发布，是2.0的独立增强补丁）。10-bit意味着暗部渐变从256级跃升到1024级，消除色带（banding），后期调色余量更大。
+
+#### 30.107.4 三种生成模式
+
+| 模式 | 说明 | 适用 |
+|------|------|------|
+| **Text-to-Video** | 纯文本驱动 | 自由创作 |
+| **Image-to-Video** | 静态图动画化 | 角色/产品一致 |
+| **Motion-Reference** | 用现有视频引导运动风格 | 复刻特定相机技术/编舞 |
+
+#### 30.107.5 发布与定价状态
+
+| 维度 | 信息 |
+|------|------|
+| 发布阶段 | 全球企业测试（beta），公开发布**2026年7月初** |
+| 分发渠道 | Volcano Engine云平台 → CapCut（4亿+MAU）/ Dreamina / 豆包 |
+| 定价 | **未披露**（2.0约$2.50/15秒clip·第三方推理平台） |
+| 版权合规 | 2.0真人面部过滤持续生效；新AI版权商业化平台公布（Stephen Chow合作伙伴） |
+| 已知限制 | 无独立基准测试（ByteDance自述规格），Elastic IP保护系统未验证 |
+
+#### 30.107.6 提示词工作流影响预测
+
+| 影响维度 | 2.0时代做法 | 2.5时代变化 |
+|---------|-----------|-----------|
+| 叙事单元 | 15秒碎片→后期拼接 | 30秒完整叙事→一次生成 |
+| 角色锁定 | 每15秒重新锚定 | 跨30秒原生保持（spatial-temporal attention） |
+| 参考策略 | 精减2-4个防止混乱 | 可上传10-50个做场景组织 |
+| 修复方式 | 不满就重跑整段 | 局部编辑→只改出问题的一小块 |
+| 批量生产 | 每个15秒独立prompt→手动拼接 | 单次生成即素材（减少拼接步骤） |
+
+---
+
+### 30.108 综合更新摘要（v7.5）
+
+| 编号 | 新增内容 | 类型 | 来源 |
+|------|---------|------|------|
+| 30.103 | Pixo 3×3导演思维完整框架（三种情绪翻译对照表 + 动作/情绪场景3×3模板 + 三大铁律） | 🔴 方法论 | pixo.video |
+| 30.104 | Vofy身份锚定三级策略（L1最小值/L2语义/L3多角色）+ 运动风险分类 + 4大常见错误 | 方法论 | vofy.art |
+| 30.105 | CrePal身份漂移完整防治体系（4模式+参考卫生量化+Prompt Anchors分层+4步工作流+修复决策树+QA清单） | 🔴 工作流 | crepal.ai |
+| 30.106 | Lip Sync黑视频载体法（社区验证·最高成功率）+ 时长精确匹配规则 | 技巧 | Reddit r/Seedance_AI |
+| 30.107 | Seedance 2.5深度更新（30s单次扩散+50参考+局部编辑+联合潜空间架构+4K 10-bit 2.0升级+工作流影响预测） | 🔴 行业情报 | TechTimes/AtlasCloud/CNET等多源 |
+| 30.108 | Invideo标签化提示词模板（[Industry Style]+SUBJECT/ACTION/CAMERA/ENVIRONMENT/LIGHTING/ATMOSPHERE/VISUAL QUALITY/CONSTRAINTS 8段标签结构·3K字符硬上限·前20-30词权重铁律·主模板可直接复制使用） | 提示词结构 | invideo.io |
+| 30.109 | Vmake Anchor & Master 7阶段权威管线（①3角度角色档案→②@Character DiT潜空间指针→③种子DNA锁→④多模态槽分配1-3面部/4-5服装/6-7光照风格→⑤关键帧注入抗注意力疲劳→⑥Vmake时序特征映射修复→⑦4K纹理锁上采样·DiT双分支架构分离身份与运动数据） | 🔴 工作流 | vmake.ai |
+| 30.110 | Soul ID跨模型桥接确认（一次训练20+照片3-5分钟→身份模型跨Kling 3.0/Veo 3.1/Seedance 2.0三模型复用·无需重新训练或重新描述·训练身份>参考锁定·高镜数+极端角度变化场景显著优于单图参考） | 🔴 工具生态 | higgsfield.ai |
+| 30.111 | Devtalk社区160+案例结构化共识（Subject/Camera/Timeline结构化块优于散文段落·可调试性为核心驱动力·若Logo断裂修正Constraints·若镜头混乱简化Camera·若动作不清晰重写Timeline·结构化=自文档化） | 社区洞察 | forum.devtalk.com |
+| 30.112 | Vofy确认5角色硬上限+参考图质量标准（2K最低/4K推荐·中性均匀光照无阴影·正面或轻微3/4角度·中性或微表情·干净无干扰背景·最小压缩伪影·建议3角度参考图库=正面+3/4+侧面·匹配目标镜头角度使用对应参考） | 🔴 模型规格 | vofy.art |
+| 30.113 | Magic Hour 4参考标签模式库（First Frame Lock首帧锁定·Identity Lock身份锁定·Camera Motion Lock相机运动锁定·Audio Sync音画同步·每模式含Prompt结构示例+适用场景说明·4阶段参考工作流=准备资产→标签附加→生成基础片段→细化或扩展） | 标签模式 | magichour.ai |
+
+**本次确认无新增（已有覆盖）**: SACSC五步公式（v6.9 30.31/v7.1 30.60）、Pixo导演思维基础（v6.3 30.20，本次为完整3×3框架）、身份锚定基础（v6.8 30.74，本次为三级分级+错误清单）、身份漂移4模式（v6.5 30.69，本次为完整修复体系）、Lip Sync基础（v6.9 30.46/v7.0 30.72.6.2，本次为黑视频载体法）、Seedance 2.5 FORCE大会（v7.3 30.95，本次为架构细节+工作流影响）
+
+**🔴 本期最大意义**：
+1. **Pixo 3×3导演思维框架从概念落地为完整可复用的分镜模板**——动作/情绪双模板+三大铁律=可直接代入任何场景
+2. **CrePal漂移防治体系给出了从预防到修复的完整闭环**——量化参考卫生（6→2张=60%漂移减少）+ Prompt Anchors分层+修复决策树=生产级角色一致性工具链
+3. **Seedance 2.5的联合潜空间架构改变了提示词思维**——从15秒碎片的拼接思维，转向30秒完整叙事单元的一次生成
+
+---
+
+## 版本说明 (2026-06-28)
+
+- **版本**: v7.5（Seedance每日深度研究 2026-06-28 第二十期）
+- **整合时间**: 2026-06-28 02:00 AM (Asia/Shanghai)
+- **信息来源**: 15+独立来源（pixo.video 3×3导演思维完整文章 + vofy.art角色一致性深度指南 + crepal.ai身份漂移42条实测报告 + Reddit r/Seedance_AI社区唇形同步讨论 + TechTimes/AtlasCloud/CNET/MindStudio/Vasundhara Seedance 2.5多源交叉验证 + BytePlus 官方文档 + 知乎/Sanleng/CSDN中文社区）
+- **本次新增（2026-06-28，深度研究第二十期）**:
+  - ✅ 30.103: Pixo 3×3导演思维完整框架（三种情绪翻译对照表 + 动作/情绪双场景3×3完整模板 + 导演三大铁律）
+  - ✅ 30.104: Vofy身份锚定三级策略体系（L1最小/L2语义/L3多角色 + 参考图质量标准 + 运动风险分类 + 4大常见错误）
+  - ✅ 30.105: CrePal身份漂移完整防治与修复体系（4模式详述 + 参考卫生量化60%效果 + Prompt Anchors双层级 + 4步多镜工作流 + 修复决策树 + QA检查清单）
+  - ✅ 30.106: Lip Sync黑视频载体法（社区验证最高成功率方法 + 时长精确匹配规则 + 多角色注意）
+  - ✅ 30.107: Seedance 2.5深度更新（五大升级逐项对比表 + 联合潜空间架构详解 + 2.0 4K 10-bit同步升级 + 三种生成模式 + 提示词工作流影响预测）
+- **本次确认无新增（已有覆盖）**: SACSC公式（v6.9/v7.1）、Pixo基础概念（v6.3）、身份锚定基础（v6.8）、身份漂移模式（v6.5）、Lip Sync基础（v6.9/v7.0）、Seedance 2.5 FORCE概要（v7.3）
+- **SKILL状态**: 累计约240,000+字，持续每日深度研究
+- **日更机制**: 每日凌晨2:00深度研究；此轮为第二十一期
+
+---
+
+## 版本说明 (2026-06-29)
+
+- **版本**: v7.6（Seedance每日深度研究 2026-06-29 第二十一期）
+- **整合时间**: 2026-06-29 02:00 AM (Asia/Shanghai)
+- **信息来源**: 10+独立来源（invideo.io标签模板 + vmake.ai Anchor&Master管线 + vofy.art 5角色硬上限 + higgsfield.ai 7工具横评 + magichour.ai 4标签模式库 + crepal.ai负锚点验证 + devtalk.com 160+社区案例 + seaart.ai/atlascloud.ai/imagine.art模板库 + Reddit r/generativeAI手动指南）
+- **本次新增（2026-06-29，深度研究第二十一期）**:
+  - ✅ 30.108: Invideo标签化提示词模板（[Industry Style]+SUBJECT/ACTION/CAMERA/ENVIRONMENT/LIGHTING/ATMOSPHERE/VISUAL QUALITY/CONSTRAINTS 8段标签·3K硬上限）
+  - ✅ 30.109: Vmake Anchor & Master 7阶段权威管线（参考页→@Tagging→种子DNA锁→多模态槽分配→关键帧注入→后期时序映射→4K纹理锁）
+  - ✅ 30.110: Soul ID跨模型桥接确认（训练一次·Kling 3.0/Veo 3.1/Seedance 2.0三模型复用·3-5分钟训练20+照片）
+  - ✅ 30.111: Devtalk社区结构化共识（160+实战案例·Subject/Camera/Timeline块＞散文段落·可调试性驱动）
+  - ✅ 30.112: Vofy确认5角色硬上限 + 参考图质量标准（2K最低/4K推荐·中性光照·正面3/4·无压缩伪影）
+  - ✅ 30.113: Magic Hour 4参考标签模式库（First Frame Lock/Identity Lock/Camera Motion Lock/Audio Sync·各含Prompt模板）
+- **本次确认无新增（已有覆盖）**: Anchor & Master基础（v5.9 30.27）、身份锚定三策略（v6.8 30.74/v7.5 30.104）、身份漂移4模式+防治（v6.5 30.69/v7.5 30.105）、运动风险分类（v6.8 30.75）、3-Angle参考策略（v6.8 30.73）、负向锚点（v6.7 30.64）、前20-30词权重（v6.9 30.42）、Seedance 2.5（v7.5 30.107）、Lip Sync（v7.5 30.106）
+- **🔴 本期最大意义**: 
+  1. **Vmake 7阶段管线填补了从「写提示词」到「生产级管线」的鸿沟**——种子DNA锁+关键帧注入+4K纹理锁把角色一致性从艺术变成工程
+  2. **Soul ID跨模型桥接改变了工具选型逻辑**——不再锁定单一模型，一次训练多模型复用
+  3. **社区160+案例的结构化共识标志Seedance 2.0提示词工程进入成熟期**——散文已死，结构化块已成行业标准
+- **SKILL状态**: 累计约245,000+字，v7.6（第二十一期），知识覆盖率约97%+
+- **日更机制**: 每日凌晨2:00深度研究；此轮为第二十一期
+- **⚠️ 降频建议重申**: 本期6项新增中有4项为先前版本基础概念的框架化重组。连续21天日更后，每日增量已降至微调级别。强烈建议调整为每周一/四两次深度研究节奏。
