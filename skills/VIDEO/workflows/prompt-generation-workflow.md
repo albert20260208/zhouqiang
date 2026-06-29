@@ -43,7 +43,7 @@
 | 11 | `工作流程/seedance-guide.md` | 视频生成 | Seedance提示词生成 |
 | 12 | `工作流程/seedream-5.0.md` | 图像生成 | 如需要先生成参考图 |
 | 13 | `工作流程/prompt-generation-mustread.md` | 生成必读 | 最终检查清单 |
-| 14 | `prohibited-word-audit/SKILL.md` | 违禁词审查 | 过审检查（已统一为唯一权威来源） |
+| 14 | `违禁词审查技能/SKILL.md` | 违禁词审查 | 过审检查（已统一为唯一权威来源） |
 
 ## 调用流程图
 
@@ -80,7 +80,7 @@
 │ ├── 工作流程/seedance-guide.md          │
 │ ├── 工作流程/seedream-5.0.md（如需要）  │
 │ ├── 工作流程/prompt-generation-mustread.md │
-│ └── prohibited-word-audit/SKILL.md（审核） │
+│ └── 违禁词审查技能/SKILL.md（审核） │
 └─────────────────────────────────────────┘
     │
     ▼
@@ -95,7 +95,7 @@
 |------|------|----------|
 | 1 | `导演/shots-guide.md` | 镜头设计 |
 | 2 | `工作流程/seedance-guide.md` | 提示词生成 |
-| 3 | `prohibited-word-audit/SKILL.md` | 审核检查 |
+| 3 | `违禁词审查技能/SKILL.md` | 审核检查 |
 
 ⚠️ **注意**：简化版仅适用于简单场景，复杂创作仍建议全流程。
 

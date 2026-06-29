@@ -235,12 +235,12 @@ Sender (untrusted metadata):
 ```
 
 你看下关于敏感词语的技能是否和仓库同步了
-assistant: **没有同步。** 违禁词审查技能 `skills/VIDEO/prohibited-word-audit/` 还是未跟踪状态，从来没提交过。
+assistant: **没有同步。** 违禁词审查技能 `skills/VIDEO/违禁词审查技能/` 还是未跟踪状态，从来没提交过。
 
 不止它——过去三天的所有产出都没推到 GitHub：
 
 **未提交的新技能（全部 Untracked）：**
-- `skills/VIDEO/prohibited-word-audit/` — 违禁词审查（6/27创建）
+- `skills/VIDEO/违禁词审查技能/` — 违禁词审查（6/27创建）
 - `skills/VIDEO/传奇打斗动作模版一/` — 冲击波三层体系
 - `skills/VIDEO/传奇打斗动作模版二/` — 赛博太极9镜版
 - `skills/VIDEO/场景一致性保持技能/` — 四面墙+八维+Seedance锁定
@@ -279,7 +279,7 @@ Sender (untrusted metadata):
 assistant: 已全部推送。这次提交了 19 个文件，包括：
 
 **5 个新技能：**
-- `skills/VIDEO/prohibited-word-audit/` — 违禁词审查 + 词库
+- `skills/VIDEO/违禁词审查技能/` — 违禁词审查 + 词库
 - `skills/VIDEO/传奇打斗动作模版一/`
 - `skills/VIDEO/传奇打斗动作模版二/`
 - `skills/VIDEO/场景一致性保持技能/`

@@ -98,7 +98,7 @@ assistant: 现在更新知识库索引，把这个新技能登记进去：
 assistant: 完成了。违禁词审查技能已创建，结构如下：
 
 ```
-skills/VIDEO/prohibited-word-audit/
+skills/VIDEO/违禁词审查技能/
 ├── SKILL.md              (99行·工作流程+审查清单)
 └── references/
     └── word-list.md      (307行·11大类完整词库)
@@ -183,10 +183,10 @@ Sender (untrusted metadata):
 [QQBot] to=qqbot:c2c:B113629636CF43C86A92619FF0C4216C
 
 放在哪个文档里 文档名是什么
-assistant: 放在了 `skills/VIDEO/` 目录下，技能名叫 **`prohibited-word-audit`**：
+assistant: 放在了 `skills/VIDEO/` 目录下，技能名叫 **`违禁词审查技能`**：
 
 ```
-skills/VIDEO/prohibited-word-audit/
+skills/VIDEO/违禁词审查技能/
 ├── SKILL.md                         ← 审查流程+检查清单（主入口）
 └── references/
     └── word-list.md                 ← 13大类完整词库（替换表）
